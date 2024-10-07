@@ -1,4 +1,4 @@
-![logo](file:///C:/Users/Syed%20Shadab/Downloads/TOOL%20(1).png)
+![logo](https://github.com/Syed00011/Syed00011/blob/master/TOOL%20(1).png)
 <h1 align="center">Welcome to my GitHub! Syed here 🤖</h1>
 <h3 align="center">"DevOps & Cloud Enthusiast | Engineer Automating the Future"</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="margin-right: 20px;">
