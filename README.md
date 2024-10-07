@@ -1,6 +1,8 @@
+![logo](file:///C:/Users/Syed%20Shadab/Downloads/TOOL%20(1).png)
 <h1 align="center">Welcome to my GitHub! Syed here 🤖</h1>
 <h3 align="center">"DevOps & Cloud Enthusiast | Engineer Automating the Future"</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="margin-right: 20px;">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed00011&label=Profile%20views&color=0e75b6&style=flat" alt="syed00011" /> </p>
 
@@ -11,6 +13,8 @@
 - 👨‍💻 All of my projects are available at [github.com/Syed00011](github.com/Syed00011)
 
 - 📫 How to reach me **syedshadab4962@gmail.com**
+
+- ⚡ Fun fact **My AWS Lambda functions have probably handled more requests than I’ve had cups of coffee!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
