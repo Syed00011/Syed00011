@@ -8,7 +8,7 @@
 
 - 🔭 I am focused on automating our CI/CD processes. **BuildBot**
 
-- 🌱 I’m currently learning **I’m currently learning CCNA to deepen my networking knowledge, along with mastering various DevOps tools like Jenkins, Docker, Kubernetes, and Ansible to enhance my automation and deployment skills.**
+- 🌱 I’m currently learning **CCNA to deepen my networking knowledge, along with mastering various DevOps tools like Jenkins, Docker, Kubernetes, and Ansible to enhance my automation and deployment skills.**
 
 - 👨‍💻 All of my projects are available at [github.com/Syed00011](github.com/Syed00011)
 
